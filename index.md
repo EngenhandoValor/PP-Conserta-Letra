@@ -1,6 +1,6 @@
 # Política de Privacidade
 
-<p>A sua privacidade é importante para nós. É política da Engenhando Valor respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no aplicativo **Conserta Letra** , e outros sites ou Aplicativos que possuímos e operamos.</p>
+<p>A sua privacidade é importante para nós. É política da Engenhando Valor respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar no aplicativo <strong>Conserta Letra</strong>, e outros sites ou Aplicativos que possuímos e operamos.</p>
 
 <p>Trabalhamos com base na Lei de Proteção de Dados (13.709/2018) que traz garantias de privacidade, confidencialidade, retenção, proteção aos direitos fundamentais de liberdade e  o livre desenvolvimento da personalidade da pessoa. Além disso, respeitamos a Constituição Federal da República Federativa do Brasil, o Código de Defesa do Consumidor (Lei 8.078/90), Marco Civil da Internet (Lei 12.965/14).</p>
 
@@ -8,7 +8,7 @@
 
 <p>Deixamos claro o motivo que estamos coletando e como será usado, pois tudo é feito para correta administração geral.</p>
 
-<p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis pela legislação atual ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados. ressaltamos que no caso do aplicativo **Conserta Letra** não salvamos as informações do usuário e do próprio aplicativo onde foi feita instalação, logo não possuimos qualquer acesso a eles.</p>
+<p>Apenas retemos as informações coletadas pelo tempo necessário para fornecer o serviço solicitado. Quando armazenamos dados, protegemos dentro de meios comercialmente aceitáveis pela legislação atual ​​para evitar perdas e roubos, bem como acesso, divulgação, cópia, uso ou modificação não autorizados. ressaltamos que no caso do aplicativo <strong>Conserta Letra</strong> não salvamos as informações do usuário e do próprio aplicativo onde foi feita instalação, logo não possuimos qualquer acesso a eles.</p>
 
 <p>Não compartilhamos informações de identificação pessoal publicamente ou com terceiros, exceto por determinação judicial.</p>
 
@@ -20,23 +20,23 @@
 
 <p>Nossa política é atualizada de forma constante.</p>
 
-<p>Fica, desde já, o titular de dados ciente que o conteúdo desta Política de Privacidade pode ser alterado a critério da Engenhando Valor que é a desenvolvedora do Aplicativo **Conserta Letra**, independente de aviso ou notificação.  Em caso de alteração, as modificações produzem todos os efeitos a partir do momento da disponibilização do aplicativo.</p> 
+<p>Fica, desde já, o titular de dados ciente que o conteúdo desta Política de Privacidade pode ser alterado a critério da Engenhando Valor que é a desenvolvedora do Aplicativo <strong>Conserta Letra</strong>, independente de aviso ou notificação.  Em caso de alteração, as modificações produzem todos os efeitos a partir do momento da disponibilização do aplicativo.</p> 
 
-<p>O aplicativo **Conserta Letra** não se responsabiliza caso você venha utilizar seus dados de forma incorreta ou inverídica, ficando excluído de qualquer responsabilidade neste sentido.</p>
+<p>O aplicativo <strong>Conserta Letra</strong> não se responsabiliza caso você venha utilizar seus dados de forma incorreta ou inverídica, ficando excluído de qualquer responsabilidade neste sentido.</p>
 
 <h3>Compromisso do Usuário</h3>
 
-<p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o aplicativo **Conserta Letra** oferece e com caráter enunciativo, mas não limitativo:</p>
+<p>O usuário se compromete a fazer uso adequado dos conteúdos e da informação que o aplicativo <strong>Conserta Letra</strong> oferece e com caráter enunciativo, mas não limitativo:</p>
 
 <ul>
 <li>A) Não se envolver em atividades que sejam ilegais ou contrárias à boa fé e à ordem pública;</li>
 <li>B) Respeito a todas as legislações nacionais ou internacionais em que o Brasil é signatário;</li>
 <li>C) Não difundir propaganda ou conteúdo de natureza racista, xenofóbica, casas de apostas, jogos de sorte e azar, qualquer tipo de pornografia ilegal, de apologia ao terrorismo ou contra os direitos humanos;</li>
-<li>D) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do aplicativo **Conserta Letra**, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados;</li>
+<li>D) Não causar danos aos sistemas físicos (hardwares) e lógicos (softwares) do aplicativo <strong>Conserta Letra</strong>, de seus fornecedores ou terceiros, para introduzir ou disseminar vírus informáticos ou quaisquer outros sistemas de hardware ou software que sejam capazes de causar danos anteriormente mencionados;</li>
 <li>E) Os conteúdos publicados, possuem direitos autorais e de propriedade intelectual reservados, conforme estabelece a Lei de Direitos Autorais n. 9.610, de 19.2.1998 do Governo Federal Brasileiro e correlatas. Qualquer infringência, serão comunicados às autoridades competentes.</li>
 </ul>
 <h2>Direitos do titular de dados</h2>
-O titular de dados pessoais possui o direito de solicitar do aplicativo **Conserta Letra**, através do canal específico de tratamento, a qualquer momento, mediante requisição formal, informações referentes aos seus dados.
+O titular de dados pessoais possui o direito de solicitar do aplicativo <strong>Conserta Letra</strong>, através do canal específico de tratamento, a qualquer momento, mediante requisição formal, informações referentes aos seus dados.
 <p>Os pedidos serão analisados conforme previsto em legislação vigente dentro de um prazo de 72 horas, salvo determinação legal e/ou objeto de lei.</p>
 
 <p>Os titulares de dados, segundo o texto da LGPD, podem exercer os seus direitos por meio de:</p>
@@ -62,4 +62,4 @@ O titular de dados pessoais possui o direito de solicitar do aplicativo **Conser
 <h2>Mais informações</h2>
 
 
-<p>O aplicativo **Conserta Letra** empregará esforços para resguardar as informações e dados coletados do usuário pelo site. Todavia, considerando que não há meio de transmissão e retenção de dados eletrônicos plenamente eficaz e seguro, o aplicativo **Conserta Letra** não pode assegurar que terceiros não autorizados não logrem êxito no acesso indevido, eximindo-se de qualquer responsabilidade por danos e prejuízos decorrentes da conduta de terceiros, ataques externos ao site como: vírus, invasão ao banco de dados, vícios ou defeitos técnicos, assim como operacionais resultante da utilização do site e em razão de falhas de conexão.</p>
+<p>O aplicativo <strong>Conserta Letra</strong> empregará esforços para resguardar as informações e dados coletados do usuário pelo site. Todavia, considerando que não há meio de transmissão e retenção de dados eletrônicos plenamente eficaz e seguro, o aplicativo <strong>Conserta Letra</strong> não pode assegurar que terceiros não autorizados não logrem êxito no acesso indevido, eximindo-se de qualquer responsabilidade por danos e prejuízos decorrentes da conduta de terceiros, ataques externos ao site como: vírus, invasão ao banco de dados, vícios ou defeitos técnicos, assim como operacionais resultante da utilização do site e em razão de falhas de conexão.</p>
